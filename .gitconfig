@@ -1,0 +1,7 @@
+[user]
+	name = Jeremy Roy
+	email = jeremy.roy@queensu.ca
+[push]
+	default = simple
+[core]
+	editor = vim
